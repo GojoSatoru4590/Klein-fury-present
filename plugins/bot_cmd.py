@@ -394,7 +394,7 @@ async def help(client: Client, message: Message):
     buttons = [
         [
             InlineKeyboardButton("🔥 ᴏᴡɴᴇʀ", url="https://t.me/DoraShin_hlo"), 
-            InlineKeyboardButton("👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/metaui")
+            InlineKeyboardButton("👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/urr_sanjiii")
         ]
     ]
     if SUPPORT_GROUP:
